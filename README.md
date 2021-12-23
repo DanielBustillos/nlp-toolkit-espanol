@@ -1,5 +1,5 @@
-## 1.1 Propósito
 
+ ## Objetivo
 Se procesan una serie de textos y se obtiene el top k palabras más importantes y se exporta una lista para construir una nube de palabras a través de un programa externo.
 
 ## 1.2 Metodología
